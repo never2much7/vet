@@ -23,7 +23,7 @@ local Window = Rayfield:CreateWindow({
    },
    KeySystem = true,
    KeySettings = {
-      Title = "Blade Ball",
+      Title = "Vet Scripts",
       Subtitle = "Key System",
       Note = "Blade Ball Premium V1",
       FileName = "InfernoKey",
