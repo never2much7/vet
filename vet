@@ -30,7 +30,6 @@ local Window = Rayfield:CreateWindow({
       SaveKey = true,
       GrabKeyFromSite = false,
       Key = "8571jfnaf84n5a73n"
-      Key = "86848jgam5mabf7na"
    }
 })
 
